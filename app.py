@@ -2,7 +2,6 @@
 #It provides functions for creating UIs, displaying data, and handling user inputs.
 import streamlit as st
 
-
 #This module provides a way to interact with the operating system, such as accessing environment variables, working with files
 #and directories, executing shell commands, etc
 import os
